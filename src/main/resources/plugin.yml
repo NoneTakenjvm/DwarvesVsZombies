@@ -1,0 +1,3 @@
+name: DwarvesVsZombies
+main: me.nonetaken.dvz.Main
+version: ${git.build.version}-${git.commit.id.abbrev}
